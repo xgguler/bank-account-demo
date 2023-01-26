@@ -1,0 +1,1 @@
+INSERT INTO currency_transaction(account_id, currency, amount, transaction_type, created_date) values (1, 'EUR', 100, 'DEPOSIT', CURRENT_TIMESTAMP)

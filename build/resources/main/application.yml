@@ -1,0 +1,7 @@
+spring:
+  jackson:
+    deserialization:
+      read-unknown-enum-values-as-null: true
+
+external-api:
+  status-url: https://httpstat.us/200
